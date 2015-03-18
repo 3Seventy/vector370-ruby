@@ -1,6 +1,6 @@
-# ThreeSeventyApi
+# 3Seventy Vector
 
-Ruby wrapper for 3Seventy Api.
+This package is a Ruby wrapper for the 3Seventy Vector API.
 
 ## Installation
 
